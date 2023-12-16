@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dialogdoc"
+name = "streamlit-audio-transcribe"
 version = "0.1.0"
 description = ""
 authors = ["y-tsuritani"]
