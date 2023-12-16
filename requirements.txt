@@ -1,0 +1,5 @@
+streamlit>1.29.0
+python-dotenv>1.0.0
+langchain>0.0.350
+openai>1.4.0
+pydub>0.25.1
